@@ -1,19 +1,21 @@
 [
-        "Author": "a08381",
-        "Name": "SkipCutscene",
-        "Description": "坏孩子辍学。",
-        "InternalName": "SkipCutscene",
-        "AssemblyVersion": "1.2.2.4",
-        "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "dungeon"
-        ],
-        "DalamudApiLevel": 10,
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SkipCutscene/1.2.2.4/latest.zip",
-        "DownloadLinkTesting": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SkipCutscene/1.2.2.4/latest.zip",
-        "DownloadLinkUpdate": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SkipCutscene/1.2.2.4/latest.zip",
-        "IconUrl": ""
+  {
+    "Author": "a08381",
+    "Name": "SkipCutscene",
+    "Description": "坏孩子辍学。",
+    "InternalName": "SkipCutscene",
+    "AssemblyVersion": "1.2.2.4",
+    "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
+    "ApplicableVersion": "any",
+    "Tags": [
+     "dungeon"
+    ],
+    "DalamudApiLevel": 10,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SkipCutscene/1.2.2.4/latest.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SkipCutscene/1.2.2.4/latest.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SkipCutscene/1.2.2.4/latest.zip",
+    "IconUrl": ""
+  }
 ]
