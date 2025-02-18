@@ -5,7 +5,7 @@
     "Description": "坏孩子辍学。",
     "InternalName": "SkipCutscene",
     "AssemblyVersion": "1.2.2.5",
-    "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
+    "RepoUrl": "https://github.com/MeowZWR/Dalamud.SkipCutscene",
     "ApplicableVersion": "any",
     "Tags": [
      "dungeon"
